@@ -1,0 +1,32 @@
+_repo: The-crime-at-Black-Dudley_75359
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Allingham, Margery
+    aliases:
+    - Carter, Margery Allingham
+    - Youngman-Carter, Margery Allingham
+    birthdate: 1904
+    deathdate: 1966
+    gutenberg_agent_id: '51887'
+    url: http://www.gutenberg.org/2009/agents/51887
+    wikipedia: https://en.wikipedia.org/wiki/Margery_Allingham
+description: ''
+gutenberg_issued: '2025-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75359'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/100926005
+pgterms:marc905: 20250208143449allingham
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aBaltimore, MD :$bPenguin Books Inc., $c1929, reprint 1967.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The crime at Black Dudley
+url: http://www.gutenberg.org/ebooks/75359
